@@ -1,5 +1,5 @@
 <html>
-<title>TECHNOLOGY</title>
+<title>DMANTZ</title>
 <body bgcolor="blue">
 <center><h1><font face="bold" size="8" color="black"> LISTS(Oredered Lists)</font></h1></center><hr><hr>
 <center><font face="arial" size="6" color="red">PROGRAMMING LANGUAGES</font></center>
