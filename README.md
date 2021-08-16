@@ -5,7 +5,6 @@
 <center><font face="arial" size="6" color="red">PROGRAMMING LANGUAGES</font></center>
 <ol type="a">
 <font face="impact" size="4" color="pink">
-<li>node.js</li>
 <li>angular</li>
 <li>python</li></font>
 </ol>
